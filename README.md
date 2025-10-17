@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Leonardo
 
-<!--
-**Leomgama/Leomgama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![SQL](https://img.shields.io/badge/SQL-Skills-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Skills-yellow)
+![Excel](https://img.shields.io/badge/Excel-Skills-green)
+![R](https://img.shields.io/badge/R-Skills-blue)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Skills-red)
+![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-Certification-brightgreen)
 
-Here are some ideas to get you started:
+## About Me
+Entry-level Data Analyst with a BBA. Proeficient in SQL, Power BI, Excel, and R. Passionate about turning raw data into actionable business insights, especially in finance and sales analytics. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio Project
+### AdventureWorks Financial Analytics
+- Analyzed AdventureWorks USA sales and financial data using SQL and Power BI.
+- Key insights include: revenue & profit trends, top performing products & categories, and regional performance.
+- Created dashboards, queries, and a detailed report to support business decisions.
+- [View Project Repository] (https://github.com/Leomgama/US-Sales-Performance-AdventureWorks)
+
+  ## Skills
+  SQL | Power BI | Excel | R programming | Data Analysis | Business Insights
+
+  ## Connect
+  [LinkedIn] (https://www.linkedin.com/in/leonardo-gama-a99648279/)
