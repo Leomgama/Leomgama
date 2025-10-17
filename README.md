@@ -17,6 +17,8 @@ Entry-level Data Analyst with a BBA. Proeficient in SQL, Power BI, Excel, and R.
 - Created dashboards, queries, and a detailed report to support business decisions.
 - [View Project Repository] (https://github.com/Leomgama/US-Sales-Performance-AdventureWorks)
 
+  ![Dashboard Screenshot] (https://github.com/Leomgama/US-Sales-Performance-AdventureWorks/blob/9bdca442ff976effa18e10abebc2930ce2bcf105/Screenshots%20PowerBI/%23%23executive%20overview.png)
+
   ## Skills
   SQL | Power BI | Excel | R programming | Data Analysis | Business Insights
 
