@@ -22,5 +22,5 @@ Entry-level Data Analyst with a BBA. Proeficient in SQL, Power BI, Excel, and R.
   ## Skills
   **SQL** | **Power BI** | **Excel** | **R programming** | **Data Analysis** | **Business Insights**
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile) ## Connect
+  💼## Connect
   [LinkedIn](https://www.linkedin.com/in/leonardo-gama-a99648279/)
