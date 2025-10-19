@@ -7,10 +7,10 @@
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Skills-red)
 ![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-Certification-brightgreen)
 
-## About Me
+## 👤 About Me
 Entry-level Data Analyst with a BBA. Proeficient in SQL, Power BI, Excel, and R. Passionate about turning raw data into actionable business insights, especially in finance and sales analytics. 
 
-## Portfolio Project
+## 📂 Portfolio Project
 ### AdventureWorks Financial Analytics
 - Analyzed AdventureWorks USA sales and financial data using SQL and Power BI.
 - Key insights include: revenue & profit trends, top performing products & categories, and regional performance.
@@ -18,8 +18,8 @@ Entry-level Data Analyst with a BBA. Proeficient in SQL, Power BI, Excel, and R.
 - [View Project Repository](https://github.com/Leomgama/US-Sales-Performance-AdventureWorks)
 - [Dashboard Screenshot](https://github.com/Leomgama/US-Sales-Performance-AdventureWorks/raw/main/Screenshots%20PowerBI/##executive%20overview.png)
 
-  🧠 ## Skills
+  ## 🧠 Skills
   **SQL** | **Power BI** | **Excel** | **R programming** | **Data Analysis** | **Business Insights**
  
-## Connect
+## 🔗 Connect
    [LinkedIn](https://www.linkedin.com/in/leonardo-gama-a99648279/)
