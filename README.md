@@ -8,7 +8,7 @@
 ![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-Certification-brightgreen)
 
 ## 👤 About Me
-Entry-level Data Analyst with a BBA. Proeficient in SQL, Power BI, Excel, and R. Passionate about turning raw data into actionable business insights, especially in finance and sales analytics.
+Data Analyst with a BBA. Proficient in SQL, Power BI, Excel, and R. Passionate about turning raw data into actionable business insights, especially in finance and sales analytics.
 
 
 ## 📂 Portfolio Project
