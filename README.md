@@ -12,6 +12,12 @@ Data Analyst with a BBA. Proficient in SQL, Power BI, Excel, and R. Passionate a
 
 
 ## 📂 Portfolio Project
+### S&P 500 Financial Performance (2020-2021)
+- **Tools**: **SQL Server** | **Power BI (DAX)** | **R** **(ARIMA Forecasting)**
+- Analyzed post-pandemic recovery trends for S&P 500 firms (2020-2021).
+- Highlighted top performers, revenue rebound, and profitability growth.
+- Integrated **R forecasting** with **ARIMA**  to predict quarterly revenue.
+- [View Project Repository]
 ### AdventureWorks Financial Analytics
 - Analyzed AdventureWorks USA sales and financial data using SQL and Power BI.
 - Key insights include: revenue & profit trends, top performing products & categories, and regional performance.
