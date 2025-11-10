@@ -17,7 +17,8 @@ Data Analyst with a BBA. Proficient in SQL, Power BI, Excel, and R. Passionate a
 - Analyzed post-pandemic recovery trends for S&P 500 firms (2020-2021).
 - Highlighted top performers, revenue rebound, and profitability growth.
 - Integrated **R forecasting** with **ARIMA**  to predict quarterly revenue.
-- [View Project Repository]
+- [View Project Repository](https://github.com/Leomgama/sp500-financial-performance-2020-2021)
+- [Dashboard Screenshot]
 ### AdventureWorks Financial Analytics
 - Analyzed AdventureWorks USA sales and financial data using SQL and Power BI.
 - Key insights include: revenue & profit trends, top performing products & categories, and regional performance.
