@@ -19,7 +19,7 @@ Data Analyst with a BBA and a strong background in finance and business analytic
 - Integrated **R forecasting** with **ARIMA**  to predict quarterly revenue.
 - [View Project Repository](https://github.com/Leomgama/sp500-financial-performance-2020-2021)
 - [Dashboard Screenshot](https://github.com/Leomgama/sp500-financial-performance-2020-2021/tree/main/sp500-financial-performance-2020-2021/Screenshots%20Dashboards)
-### AdventureWorks Financial Analytics
+### **AdventureWorks Financial Analytics**
 - **Tools**: **SQL** | **Power BI (DAX)** 
 - Analyzed AdventureWorks USA sales and financial data using SQL and Power BI.
 - Key insights include: revenue & profit trends, top performing products & categories, and regional performance.
