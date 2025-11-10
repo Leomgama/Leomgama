@@ -18,7 +18,7 @@ Data Analyst with a BBA. Proficient in SQL, Power BI, Excel, and R. Passionate a
 - Highlighted top performers, revenue rebound, and profitability growth.
 - Integrated **R forecasting** with **ARIMA**  to predict quarterly revenue.
 - [View Project Repository](https://github.com/Leomgama/sp500-financial-performance-2020-2021)
-- [Dashboard Screenshot]
+- [Dashboard Screenshot](https://github.com/Leomgama/sp500-financial-performance-2020-2021/tree/main/sp500-financial-performance-2020-2021/Screenshots%20Dashboards)
 ### AdventureWorks Financial Analytics
 - Analyzed AdventureWorks USA sales and financial data using SQL and Power BI.
 - Key insights include: revenue & profit trends, top performing products & categories, and regional performance.
