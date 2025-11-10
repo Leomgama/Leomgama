@@ -8,11 +8,11 @@
 ![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-Certification-brightgreen)
 
 ## 👤 About Me
-Data Analyst with a BBA. Proficient in SQL, Power BI, Excel, and R. Passionate about turning raw data into actionable business insights, especially in finance and sales analytics.
+Data Analyst with a BBA and a strong background in finance and business analytics. Skilled in SQL, Power BI (DAX), Excel, and R, with experience transforming raw data into actionable insights. Passionate about uncovering financial and operational trends that support data-driven decisions. 
 
 
-## 📂 Portfolio Project
-### S&P 500 Financial Performance (2020-2021)
+## 📂 Portfolio Projects
+### **S&P 500 Financial Performance (2020-2021)**
 - **Tools**: **SQL Server** | **Power BI (DAX)** | **R** **(ARIMA Forecasting)**
 - Analyzed post-pandemic recovery trends for S&P 500 firms (2020-2021).
 - Highlighted top performers, revenue rebound, and profitability growth.
@@ -20,6 +20,7 @@ Data Analyst with a BBA. Proficient in SQL, Power BI, Excel, and R. Passionate a
 - [View Project Repository](https://github.com/Leomgama/sp500-financial-performance-2020-2021)
 - [Dashboard Screenshot](https://github.com/Leomgama/sp500-financial-performance-2020-2021/tree/main/sp500-financial-performance-2020-2021/Screenshots%20Dashboards)
 ### AdventureWorks Financial Analytics
+- **Tools**: **SQL** | **Power BI (DAX)** 
 - Analyzed AdventureWorks USA sales and financial data using SQL and Power BI.
 - Key insights include: revenue & profit trends, top performing products & categories, and regional performance.
 - Created dashboards, queries, and a detailed report to support business decisions.
@@ -28,7 +29,7 @@ Data Analyst with a BBA. Proficient in SQL, Power BI, Excel, and R. Passionate a
 
 
 ## 🧠 Skills
-**SQL** | **Power BI** | **Excel** | **R programming** | **Data Analysis** | **Business Insights**
+**SQL** | **Power BI** | **Excel** | **R Programming** | **Data Analysis** | **Business Insights**
 
  
 ## 🔗 Connect
