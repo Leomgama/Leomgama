@@ -92,10 +92,3 @@ I’m especially interested in:
 
 - [LinkedIn](https://www.linkedin.com/in/leonardo-gama-a99648279/)
 
----
-
-## 💡 Profile Summary
-
-I build analytics projects that combine **business context, financial thinking, and technical execution** — from SQL and dashboards to forecasting and data visualization.
-
-If you're interested in **data analytics, business intelligence, or finance-focused analysis**, feel free to connect.
