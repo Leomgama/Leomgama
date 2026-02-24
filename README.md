@@ -1,36 +1,101 @@
-# Hi, I'm Leonardo
+# Hi, I'm Leonardo Gama 👋
 
-![SQL](https://img.shields.io/badge/SQL-Skills-blue)
-![Power BI](https://img.shields.io/badge/Power%20BI-Skills-yellow)
-![Excel](https://img.shields.io/badge/Excel-Skills-green)
-![R](https://img.shields.io/badge/R-Skills-blue)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Skills-red)
-![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-Certification-brightgreen)
+### Data Analyst | Finance & Business Analytics | SQL • Power BI • Python
+
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-DAX-yellow)
+![Excel](https://img.shields.io/badge/Excel-Analytics-green)
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB)
+![R](https://img.shields.io/badge/R-Analytics-276DC3)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Business%20Insights-red)
+![Google Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics%20Certified-brightgreen)
+
+---
 
 ## 👤 About Me
-Data Analyst with a BBA and a strong background in finance and business analytics. Skilled in SQL, Power BI (DAX), Excel, and R, with experience transforming raw data into actionable insights. Passionate about uncovering financial and operational trends that support data-driven decisions. 
 
+I’m a **Data Analyst** with a **BBA in Business Administration** and a strong foundation in **finance, business analytics, and data visualization**.
 
-## 📂 Portfolio Projects
-### **S&P 500 Financial Performance (2020-2021)**
-- **Tools**: **SQL Server** | **Power BI (DAX)** | **R** **(ARIMA Forecasting)**
-- Analyzed post-pandemic recovery trends for S&P 500 firms (2020-2021).
-- Highlighted top performers, revenue rebound, and profitability growth.
-- Integrated **R forecasting** with **ARIMA**  to predict quarterly revenue.
-- [View Project Repository](https://github.com/Leomgama/sp500-financial-performance-2020-2021)
-- [Dashboard Screenshot](https://github.com/Leomgama/sp500-financial-performance-2020-2021/tree/main/sp500-financial-performance-2020-2021/Screenshots%20Dashboards)
-### **AdventureWorks Financial Analytics**
-- **Tools**: **SQL** | **Power BI (DAX)** 
-- Analyzed AdventureWorks USA sales and financial data using SQL and Power BI.
-- Key insights include: revenue & profit trends, top performing products & categories, and regional performance.
-- Created dashboards, queries, and a detailed report to support business decisions.
-- [View Project Repository](https://github.com/Leomgama/US-Sales-Performance-AdventureWorks)
-- [Dashboard Screenshot](https://github.com/Leomgama/US-Sales-Performance-AdventureWorks/raw/main/Screenshots%20PowerBI/##executive%20overview.png)
+I enjoy turning raw data into clear, actionable insights that support smarter business decisions. My background combines **business thinking and technical analytics**, which helps me connect data to real-world performance, trends, and strategy.
 
+I work with **SQL, Power BI (DAX), Excel, R, and Python**, and I use tools like **Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook, and VS Code** for data cleaning, analysis, and visualization.
 
-## 🧠 Skills
-**SQL** | **Power BI** | **Excel** | **R Programming** | **Data Analysis** | **Business Insights**
+I’m especially interested in:
+- Financial performance analysis
+- Business intelligence dashboards
+- Data storytelling and visualization
+- Building projects with real business value
 
- 
-## 🔗 Connect
-   [LinkedIn](https://www.linkedin.com/in/leonardo-gama-a99648279/)
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Analytics
+- **SQL**
+- **Python**
+- **R**
+- **DAX**
+- **Excel**
+
+### Python Libraries
+- **Pandas**
+- **NumPy**
+- **Matplotlib**
+- **Seaborn**
+
+### BI & Tools
+- **Power BI**
+- **Jupyter Notebook**
+- **VS Code**
+- **GitHub**
+
+---
+
+## 📂 Featured Projects
+
+### 📈 S&P 500 Financial Performance (2020–2021)
+**Tools:** SQL Server | Power BI (DAX) | R (ARIMA Forecasting)
+
+- Analyzed post-pandemic recovery trends across S&P 500 companies
+- Evaluated revenue rebound, profitability growth, and top-performing firms
+- Built dashboards to compare company-level financial performance
+- Applied **ARIMA forecasting in R** to project quarterly revenue trends
+
+🔗 [View Repository](https://github.com/Leomgama/sp500-financial-performance-2020-2021)  
+📊 [Dashboard Screenshots](https://github.com/Leomgama/sp500-financial-performance-2020-2021/tree/main/sp500-financial-performance-2020-2021/Screenshots%20Dashboards)
+
+---
+
+### 📊 AdventureWorks Financial Analytics
+**Tools:** SQL | Power BI (DAX)
+
+- Analyzed AdventureWorks USA sales and financial performance
+- Built interactive dashboards for revenue, profit, and regional analysis
+- Identified top-performing products and categories
+- Wrote SQL queries to support business reporting and insights
+
+🔗 [View Repository](https://github.com/Leomgama/US-Sales-Performance-AdventureWorks)  
+📊 [Dashboard Screenshots](https://github.com/Leomgama/US-Sales-Performance-AdventureWorks/tree/main/Screenshots%20PowerBI)
+
+---
+
+## 📚 Certifications & Learning
+
+- ✅ Google Data Analytics Professional Certificate
+- ✅ SQL for Data Analysis (Bruce Fonseca community)
+- ✅ Power BI / Data Visualization portfolio projects
+- ✅ Python for Data Analysis (Pandas, NumPy, Matplotlib, Seaborn)
+
+---
+
+## 🔗 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/leonardo-gama-a99648279/)
+
+---
+
+## 💡 Profile Summary
+
+I build analytics projects that combine **business context, financial thinking, and technical execution** — from SQL and dashboards to forecasting and data visualization.
+
+If you're interested in **data analytics, business intelligence, or finance-focused analysis**, feel free to connect.
