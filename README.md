@@ -88,4 +88,3 @@ Proficient with Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook, and VS Cod
 ## 🔗 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/leonardo-gama-a99648279/)
-- [GitHub](https://github.com/Leomgama)
