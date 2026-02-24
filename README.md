@@ -14,17 +14,11 @@
 
 ## 👤 About Me
 
-I’m a **Data Analyst** with a **BBA in Business Administration** and a strong foundation in **finance, business analytics, and data visualization**.
+Data Analyst with a BBA in Business Administration and a strong foundation in finance, business analytics, and data visualization.
 
-I enjoy turning raw data into clear, actionable insights that support smarter business decisions. My background combines **business thinking and technical analytics**, which helps me connect data to real-world performance, trends, and strategy.
+Experienced in transforming raw data into actionable insights through SQL, Power BI (DAX), Excel, R, and Python. Skilled in data cleaning, analysis, dashboard development, and reporting, with a focus on financial and operational performance.
 
-I work with **SQL, Power BI (DAX), Excel, R, and Python**, and I use tools like **Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook, and VS Code** for data cleaning, analysis, and visualization.
-
-I’m especially interested in:
-- Financial performance analysis
-- Business intelligence dashboards
-- Data storytelling and visualization
-- Building projects with real business value
+Proficient with Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook, and VS Code for analytics workflows and visual storytelling.
 
 ---
 
@@ -45,6 +39,7 @@ I’m especially interested in:
 
 ### BI & Tools
 - **Power BI**
+- **Power Query**
 - **Jupyter Notebook**
 - **VS Code**
 - **GitHub**
@@ -56,30 +51,32 @@ I’m especially interested in:
 ### 📈 S&P 500 Financial Performance (2020–2021)
 **Tools:** SQL Server | Power BI (DAX) | R (ARIMA Forecasting)
 
-- Analyzed post-pandemic recovery trends across S&P 500 companies
-- Evaluated revenue rebound, profitability growth, and top-performing firms
-- Built dashboards to compare company-level financial performance
-- Applied **ARIMA forecasting in R** to project quarterly revenue trends
+- Analyzed **1,000+ financial statements** across **500 S&P 500 companies** to evaluate post-pandemic recovery by sector, profitability, and margin trends
+- Built a **SQL data model** and **Power BI KPI dashboards** to track financial performance across reporting periods
+- Applied **ARIMA forecasting in R** to project revenue trajectories, identifying growth potential of **up to ~15% in high-growth segments**
+- Identified **80%+ YoY gains** in **Technology and Healthcare**, highlighting drivers linked to margin recovery
+- Delivered an end-to-end analytics workflow combining data preparation, dashboard reporting, and forecasting for business-focused decision support
 
 🔗 [View Repository](https://github.com/Leomgama/sp500-financial-performance-2020-2021)  
 📊 [Dashboard Screenshots](https://github.com/Leomgama/sp500-financial-performance-2020-2021/tree/main/sp500-financial-performance-2020-2021/Screenshots%20Dashboards)
 
 ---
 
-### 📊 AdventureWorks Financial Analytics
-**Tools:** SQL | Power BI (DAX)
+### 📊 U.S. Sales Performance (AdventureWorks)
+**Tools:** SQL | Power BI | Power Query | DAX
 
-- Analyzed AdventureWorks USA sales and financial performance
-- Built interactive dashboards for revenue, profit, and regional analysis
-- Identified top-performing products and categories
-- Wrote SQL queries to support business reporting and insights
+- Analyzed **200,000+ sales records** across U.S. regions to identify top products, customer purchasing patterns, and seasonality drivers
+- Built an interactive **Power BI dashboard** integrating **6+ tables** with **Power Query + DAX** to standardize KPIs and reporting logic
+- Developed SQL queries for data extraction, transformation, and reporting to support scalable business analysis
+- Improved reporting clarity and reduced manual analysis time by **~60%** through automated refresh and dashboard-driven reporting
+- Delivered stakeholder-ready insights on revenue, profit, product/category performance, and regional trends
 
 🔗 [View Repository](https://github.com/Leomgama/US-Sales-Performance-AdventureWorks)  
 📊 [Dashboard Screenshots](https://github.com/Leomgama/US-Sales-Performance-AdventureWorks/tree/main/Screenshots%20PowerBI)
 
 ---
 
-## 📚 Certifications & Learning
+## 📚 Certifications
 
 - ✅ Google Data Analytics Professional Certificate
 - ✅ SQL for Data Analysis (Bruce Fonseca community)
@@ -91,4 +88,4 @@ I’m especially interested in:
 ## 🔗 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/leonardo-gama-a99648279/)
-
+- [GitHub](https://github.com/Leomgama)
