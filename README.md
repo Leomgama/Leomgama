@@ -20,7 +20,7 @@ I specialize in transforming raw data into actionable insights through **SQL, Po
 
 My work focuses on combining **technical analytics skills** with **business and financial thinking** to support data-driven decision-making.
 
-I am proficient in **Pandas, NumPy, Matplotlib, Seaborn, Altair, Streamlit, Jupyter Notebook, and VS Code** for analytics workflows, interactive dashboards, and visual storytelling.
+I work with **Pandas, NumPy, Matplotlib, Seaborn, Altair, Streamlit, Jupyter Notebook, and VS Code** for analytics workflows, interactive dashboards, and visual storytelling.
 
 I also work with APIs to extract external data, automate data collection, and integrate real-world data sources into analytics projects.
 
