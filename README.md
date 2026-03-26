@@ -84,17 +84,29 @@ I also work with APIs to extract external data, automate data collection, and in
 
 ---
 
-### 🌐 Interactive Dashboard with Streamlit
-**Tools:** Python | Pandas | NumPy | Altair | Streamlit | GitHub
+### 📉 BF LUBS Sales Volume Decline Analysis
+**Tools:** Python | Pandas | NumPy | Matplotlib | Jupyter Notebook
 
-- Built and deployed an **interactive dashboard** using **Streamlit** to turn data into a user-friendly analytical application  
-- Applied **data loading, cleaning, filtering, grouping, and visualization** techniques using Python  
-- Created interactive charts and visuals with **Altair** to improve data exploration and storytelling  
-- Used **Git/GitHub** for version control and project publishing  
-- Deployed the project to **Streamlit Cloud**, taking it from development to a live app  
+- Analyzed **2018–2024** sales performance to identify the main drivers behind declining volume despite revenue growth, uncovering the combined impact of **pricing, customer loss, and weaker purchasing intensity** among remaining accounts
+- Built a Python-based analysis workflow to clean data, evaluate trends across **customers, products, markets, and regions**, and structure the investigation around key business questions tied to commercial performance
+- Used **Pareto analysis** to show that a relatively small number of region-market-customer combinations explained most of the total decline, helping prioritize where management should focus first
+- Found that losses were concentrated in the **“Very High” customer segment**, with **LUB-BF-SPEC-01** and markets such as **Energy & Chemicals, Science & Health, and Manufacturing** contributing most to the decline
+- Delivered **stakeholder-ready recommendations** around retention, pricing strategy, product competitiveness, and recovery prioritization, turning a broad sales decline into a targeted commercial action plan
 
-🔗 [View Repository](https://github.com/Leomgama/StreamlitProject)  
-🚀 [Live App](https://appproject-y7f8ohuazpwnftk6y2vyje.streamlit.app/)
+🔗 [View Repository](https://github.com/Leomgama/bf-lubs-sales-volume-decline-analysis)
+
+---
+
+### 📍 Route Change Impact Analysis: Sorocaba vs. Campinas
+**Tools:** Python | Pandas | OpenRouteService API | Jupyter Notebook | Matplotlib
+
+- Evaluated the operational impact of rerouting deliveries from Campinas instead of Sorocaba after a planning issue left the Sorocaba branch without material availability for the week
+- Integrated the **OpenRouteService API** into a Python workflow to calculate and compare route distances for the same delivery groups under normal and emergency execution scenarios
+- Quantified the logistics impact of the branch change: **5,522 km** under the Sorocaba scenario versus **10,250** km from Campinas, an increase of **4,728 km** or **85.6%**
+- Showed that service continuity was preserved, but at a significantly higher transportation burden, revealing how branch-origin decisions can sharply reduce **route efficiency** and increase **operational exposure**
+- Produced **business-focused recommendations** on inventory planning, contingency routing, and branch readiness to help prevent similar emergency reallocations in future operations
+
+🔗 [View Repository](https://github.com/Leomgama/RouteAnalysis)
 
 ---
 
