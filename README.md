@@ -49,6 +49,8 @@ I also work with APIs to extract external data, automate data collection, and in
 - **Jupyter Notebook**
 - **VS Code**
 - **Git** & **GitHub**
+- **REST APIs**
+- **JSON**
 
 ---
 
