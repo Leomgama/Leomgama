@@ -98,6 +98,7 @@ I apply **CRISP-DM methodology** across all projects and document everything her
 - ✅ SQL for Data Analysis
 - ✅ Power BI & Data Analytics
 - ✅ Python Fundamentals
+- ✅ Python for Data Analysis
 ---
 ## 🔗 Connect With Me
 - **LinkedIn:** [linkedin.com/in/leonardo-gama-a99648279](https://www.linkedin.com/in/leonardo-gama-a99648279/)
