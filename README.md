@@ -48,7 +48,7 @@ I apply **CRISP-DM methodology** across all projects and document everything her
 - Identified that the **$40–100K mid-income bracket drives 62% of profit** (vs. only $323K from $150K+), and that the **top 20% of customers generate 66.42% of revenue** with a CLV of **$2,169 (3.3× the overall average)**
 - Defined the ideal acquisition target — Bachelor's-educated Professionals/Management in the $40–100K bracket — and recommended a win-back trigger at the 60–90 day silence window to lift repeat rate from **37.1% to 45%**
 - Caught two AI-generated bugs in real time (a reserved-word DAX collision and a heavy-compute calculated column) — the analyst still owns correctness
-🔗 [View Repository](https://github.com/Leomgama/AdventureWorks-DTC-Profitability)
+🔗 [View Repository](https://github.com/Leomgama/DTC-Customer-Profitability-Claude)
 ---
 ### 🔮 Customer Churn Prediction — B2B Supply Distributor
 **Tools:** Python | Pandas | Scikit-learn (Random Forest) | Matplotlib | Seaborn
